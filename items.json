@@ -1,0 +1,42 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "Mountain Bike",
+            "price": 1299,
+            "imgName": "Cycle.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Guitar",
+            "price": 1499,
+            "imgName": "Guitar.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Coffee Mug",
+            "price": 999,
+            "imgName": "Coffee Mug.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Laptop",
+            "price": 1999,
+            "imgName": "Laptop.jpg"
+        }
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "Soccer Kit",
+            "price": 1992,
+            "imgName": "Soccer Kit.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Coffee Mug",
+            "price": 699,
+            "imgName": "Coffee Mug.jpg"
+        }
+    ]
+}
