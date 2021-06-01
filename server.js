@@ -68,7 +68,6 @@ app.post('/purchase', function (req, res) {
     })
 })
 
-var port = 3000 || process.env.PORT
-app.listen(port, function () {
-    console.log("Server running on port ", port);
+app.listen(3000 || process.env.PORT, function () {
+    console.log("Server running");
 })
