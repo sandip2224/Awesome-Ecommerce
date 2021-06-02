@@ -12,8 +12,12 @@
 ## Built With
 
 <p align="left">
+   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/nodejs%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+   <img src="https://img.shields.io/badge/stripe%20-%23E34F26.svg?&style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>  
 
 ## Screenshots
