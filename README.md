@@ -1,15 +1,11 @@
-# Awesome-Ecommerce
+# Awesome-Ecommerce ⚡
 
 <p align="center">
    <img src="public/Images/banner1.gif" alt="Logo"/>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-- [Built With](#built-with)
-- [How to Install Locally](#how-to-install-locally)
-- [License](#license)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
 
 <!-- BUILT WITH -->  
 
