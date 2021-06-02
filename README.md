@@ -1,5 +1,7 @@
+# Awesome-Ecommerce
+
 <p align="center">
-   <img src="img/banner1.png" alt="Logo"/>
+   <img src="public/Images/banner1.gif" alt="Logo"/>
 </p>
 
 <!-- TABLE OF CONTENTS -->
