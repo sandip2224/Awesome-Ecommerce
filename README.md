@@ -20,12 +20,8 @@
 
 ## Screenshots
 
-<!-- |                                   |                                   |
-| --------------------------------- | --------------------------------- |
-|  | <img src="images/"  width="300"/> |
-| <img src="images/" width="300"/>  | <img src="images/" width="300"/>  | -->
 <p align="center">
-  <img src="Public/Images/ss1.png"  width="300"/>
+  <img src="public/Images/ss3.png" width=800/>
 </p>
 
 <!-- INSTALLATION -->
@@ -34,39 +30,20 @@
 **1. Fork and clone this repository using**
 
 ```
-  git clone https://github.com/sandip2224/NoteIO.git
-  cd NoteIO
+  git clone https://github.com/sandip2224/Awesome-Ecommerce.git
+  cd <Project-Folder>/
 ```  
 
-**2. Install reqired dependencies and move to working directory using**
+**2. Install required dependencies using**
 
 ```
    npm install
-   cd src
 ```
 
-**3. Add a new note using**
+**3. Create a .env file inside the current directory and run the server at** ``localhost:3000`` **using**
 
 ```
-   node app.js add --title="<TITLE>" --body="<NOTE-DESCRIPTION>"
-```
-
-**4. Delete an existing note using**
-
-```
-   node app.js del --title="<TITLE>"
-```
-
-**5. Explore the contents of a note using**
-
-```
-   node app.js open --title="<TITLE>"
-```
-
-**6. List out all existing notes using**
-
-```
-   node app.js logs
+   node server.js
 ```
 
 <!-- LICENSE -->  
