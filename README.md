@@ -1,4 +1,4 @@
-# Awesome-Ecommerce ⚡
+# [Awesome-Ecommerce ⚡](https://awesome-ecommmerce.herokuapp.com)
 
 <p align="center">
    <img src="public/Images/banner1.gif" alt="Logo"/>
@@ -20,11 +20,18 @@
    <img src="https://img.shields.io/badge/stripe%20-%23E34F26.svg?&style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>  
 
-## Screenshots
+---
 
-<p align="center">
-  <img src="public/Images/ss3.png" width=800/>
-</p>
+## 🔥 Screenshots
+
+|   |
+| - |
+| <img src="public/Images/ss3.png" width="1000"/> |
+| <img src="public/Images/Img1.PNG"  width="1000"/> |
+| <img src="public/Images/Img2.PNG"  width="1000"/> |
+| <img src="public/Images/Img3.PNG"  width="1000"/> |
+
+---
 
 <!-- INSTALLATION -->
 ## How to Install Locally
@@ -42,28 +49,39 @@
    npm install
 ```
 
-**3. Create a .env file inside the current directory and run the server at** ``localhost:3000`` **using**
+**3. Create a `.env` file inside the current directory using the following template**
+
+```
+STRIPE_PUBLIC_KEY=<Your-Public-Key>
+STRIPE_SECRET_KEY=<Your-Secret-Key>
+```
+
+**4. Run the server at** ``localhost:3000`` **using**
 
 ```
    node server.js
 ```
 
-<!-- LICENSE -->  
+---
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.  
 
+---
+
 ## Contributing
 
 If you'd like to contribute, please **fork** the repository and then raise a PR with necessary changes. Thank you.
 
-## Found this project interesting?
+---
+
+## 🤎: Found this project interesting?
 
 If you found this project useful, then please consider leaving a :star: on Github
 and sharing it with your friends via social media.
 
-<!-- CONTACT -->
+---
 
-## Project Created & Maintained By-
+## :man: Project Created & Maintained By-
   - [Sandipan Das](https://linkedin.com/in/sandipan0164/)
