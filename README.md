@@ -1,4 +1,4 @@
-# [Awesome-Ecommerce](https://awesome-ecommmerce.herokuapp.com)⚡
+# [Awesome-Ecommerce](https://awesome-ecommerce.herokuapp.com/)⚡
 
 <p align="center">
    <img src="public/Images/banner1.gif" alt="Logo"/>
