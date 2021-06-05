@@ -24,12 +24,25 @@
 
 ## 🔥 Screenshots
 
-|   |
+| Mockups |
 | - |
 | <img src="public/Images/ss3.png" width="1000"/> |
+
+| Ecommerce Cart |
+| - |
 | <img src="public/Images/Img1.PNG"  width="1000"/> |
+
+| Stripe Payment Gateway |
+| - |
 | <img src="public/Images/Img2.PNG"  width="1000"/> |
+
+| Stripe Dashboard Logs |
+| - |
 | <img src="public/Images/Img3.PNG"  width="1000"/> |
+
+| Auto-Generated Payment Receipts  |
+| - |
+| <img src="public/Images/Img4.PNG"  width="1000"/> |
 
 ---
 
@@ -76,7 +89,7 @@ If you'd like to contribute, please **fork** the repository and then raise a PR 
 
 ---
 
-## 🤎: Found this project interesting?
+## 🤎 Found this project interesting?
 
 If you found this project useful, then please consider leaving a :star: on Github
 and sharing it with your friends via social media.
